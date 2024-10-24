@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["HelpingXylenceServices"];
+const statusMessages = ["HelpingReHub"];
 
 
 let currentIndex = 0;
